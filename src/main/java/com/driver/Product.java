@@ -12,5 +12,5 @@ public class Product {
 
     public double product(double x, double y) {
         return x*y;
-    }
+    }//
 }
